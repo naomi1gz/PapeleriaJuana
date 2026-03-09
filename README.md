@@ -70,6 +70,4 @@ este proyecto fue hecho como práctica para aprender:
 * uso del framework anchor
 * interacción cliente → programa on-chain
 
-## licencia
 
-MIT
